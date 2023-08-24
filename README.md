@@ -1,3 +1,4 @@
+# Designify-ResearchReport
 
 # The Role of Design in Branding and User Experience
 
@@ -46,7 +47,7 @@ In conclusion, design is a powerful tool that can transform ordinary experiences
 
 
 
-
+···
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -64,6 +65,5 @@ plt.title("Sales by Product Category")
 plt.show()
 
 
-Designify-ResearchReport
-
+···
 
