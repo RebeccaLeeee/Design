@@ -47,7 +47,8 @@ In conclusion, design is a powerful tool that can transform ordinary experiences
 
 
 
-···
+
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -63,7 +64,5 @@ plt.xlabel("Product Category")
 plt.ylabel("Total Sales")
 plt.title("Sales by Product Category")
 plt.show()
-
-
-···
+```
 
